@@ -1,6 +1,0 @@
-Hi there,
-
-This is just to check wether how to push in git 
-
-Second commit push
-Commit fix
